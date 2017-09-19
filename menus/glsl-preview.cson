@@ -6,6 +6,7 @@
       {label: 'Preview Shader', command: 'glsl-preview:toggle'}
       {label: 'Copy Image', command: 'glsl-preview:copy-image'}
       {label: 'Save Image', command: 'glsl-preview:save-image'}
+      {label: 'Import from Shadertoy', command: 'glsl-preview:import-from-shadertoy'}
     ]
   ]
 ]
