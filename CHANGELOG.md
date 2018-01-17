@@ -1,3 +1,21 @@
+# v1.4.1
+
+- Fixed a bug where the preview wouldn't activate for the first editor.
+- Previous shader isn't removed if the new shader has errors.
+
+# v1.4.0
+
+- Make default uniforms optional. (@andystanton)
+- Better shader error handling. (@andystanton)
+
+# v1.3.0
+
+- Add glslify support.
+
+# v1.2.3
+
+- Fixed an event listener leak in shader-canvas.
+
 # v1.2.2
 
 - Optimize activation time.
